@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572564102 source:c:\users\gaston\almacenamiento\code bocks\archivos 7\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+

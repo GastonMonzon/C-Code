@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571430514 source:c:\users\gaston\almacenamiento\code bocks\arrays 12\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+

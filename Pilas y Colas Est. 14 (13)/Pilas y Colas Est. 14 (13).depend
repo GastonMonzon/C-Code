@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571587888 source:c:\users\gaston\almacenamiento\code bocks\pilas y colas est. 14 (13)\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+
